@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCR (Tesseract)</string>
+    <string name="pref_tesseract_language_title">Язык</string>
+    <string name="configuration_pending">Язык не указан или данные не скачаны.</string>
+</resources>
