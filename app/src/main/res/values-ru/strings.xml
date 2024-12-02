@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_credits_title">Вклад</string>
+    <string name="pref_website_title">На Github</string>
+    <string name="copy_to_clipboard">Копировать</string>
+</resources>
